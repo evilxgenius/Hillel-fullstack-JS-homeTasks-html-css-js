@@ -1,0 +1,30 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.floating-left {
+    float: left;
+    width: 50%;
+}
+
+.floating-right {
+    float: right;
+    width: 50%;
+}
+
+.info-height {
+    height: 450px;
+}
+
+.ul-points-none {
+    list-style-type: none;
+}
